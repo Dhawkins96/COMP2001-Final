@@ -1,6 +1,6 @@
 # COMP2001-Final
 This repro is spilt into two main sections. Part 1 is a zipped file which contains all the source files for my RESTfull API. Part 2 is my PHP application that displays my chosen dataset from Data Plymouth. 
-I also have a folder which contains all my the SQL script for my API project - titled SQL Scripts.
+I also have a folder which contains all my the SQL script for my API project - titled SQL Script.
 
 The API is using the ASP.NET Framework Core and is linked with a Mircosoft SQL Server. The SQL has 3 different tables in with 4 stored procedures, a trigger and a view. The trigger and view arent explosed to the API currently they are just for future development.
 
